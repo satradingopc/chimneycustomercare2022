@@ -1,0 +1,17 @@
+@font-face {
+  font-family: Graublau Sans Web;
+  src: url(/wp-content/plugins/wp-optimize/vendor/marcusschwarz/lesserphp/tests/outputs/fonts/GraublauWeb.otf) format("opentype");
+}
+@font-face {
+  font-family: Gentium;
+  src: url('/wp-content/plugins/wp-optimize/vendor/marcusschwarz/lesserphp/tests/outputs/fonts/Gentium.ttf');
+}
+@font-face {
+  font-family: Gentium;
+  src: url("/wp-content/plugins/wp-optimize/vendor/marcusschwarz/lesserphp/tests/outputs/fonts/GentiumItalic.ttf");
+  font-style: italic;
+}
+h2 {
+  font-family: Gentium;
+  crazy: maroon;
+}
